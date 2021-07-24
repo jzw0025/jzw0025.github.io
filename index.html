@@ -1,38 +1,58 @@
-## Welcome to GitHub Pages
+---
+layout: index-full
+description: the good site of life
+---
+{% for post in paginator.posts %}
+    {% include article_index.html %}
+{% endfor %}
 
-You can use the [editor on GitHub](https://github.com/jzw0025/junchaowei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+{% if paginator.total_pages > 1 %}
+    <div class="pagination">
+        <!-- link to first page -->
+        {% if paginator.total_pages > 3 %}
+            {% if paginator.page == 1 %}
+                <span class="btn disabled"><i class="fa fa-angle-double-left"></i></span>
+            {% else %}
+                <a class="btn" href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-double-left"></i></a>
+            {% endif %}
+        {% endif %}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        <!-- previous link -->
+        {% if paginator.previous_page %}
+            <a class="btn prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-left"></i></a>
+        {% else %}
+            <span class="btn disabled"><i class="fa fa-angle-left"></i></span>
+        {% endif %}
 
-### Markdown
+        <!-- number links -->
+        {% capture start %}
+            {{ paginator.page | minus: 3 }}
+        {% endcapture %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        {% for i in (1..paginator.total_pages) limit: 5 offset: start %}
+            {% if i == paginator.page %}
+                <span class="btn disabled">{{ i }}</span>
+            {% elsif i == 1 %}
+                <a class="btn" href="{{ site.baseurl }}/">{{ i }}</a>
+            {% else %}
+                <a class="btn" href="/page/{{ i }}">{{ i }}</a>
+            {% endif %}
+        {% endfor %}
 
-```markdown
-Syntax highlighted code block
+        <!-- next link -->
+        {% if paginator.next_page %}
+            <a class="btn next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-angle-right"></i></a>
+        {% else %}
+            <span class="btn disabled"><i class="fa fa-angle-right"></i></span>
+        {% endif %}
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jzw0025/junchaowei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+        <!-- last page link -->
+        {% if paginator.total_pages > 3 %}
+            {% if paginator.page == paginator.total_pages %}
+                <span class="btn disabled"><i class="fa fa-angle-double-right"></i></span>
+            {% else %}
+                <a class="btn" href="{{ site.baseurl | replace: '//', '/' }}/page/{{paginator.total_pages}}"><i class="fa fa-angle-double-right"></i></a>
+            {% endif %}
+        {% endif %}
+    </div>
+{% endif %}
