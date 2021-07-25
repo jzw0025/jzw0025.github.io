@@ -11,5 +11,5 @@ main:
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
-#   - title: "Blogs"
-#     url: /Blogs/
+  - title: "Blogs"
+    url: /Blogs/
