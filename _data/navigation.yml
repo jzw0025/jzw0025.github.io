@@ -2,7 +2,7 @@
 main:
   - title: "Quick-Start Guide"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    url: https:www.google.com 
+    url: https://www.google.com 
    - title: "About"
      url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "Sample Posts"
@@ -11,3 +11,5 @@ main:
      url: /collection-archive/
    - title: "Sitemap"
      url: /sitemap/
+   - title: "Blogs"
+     url: /Blogs/
