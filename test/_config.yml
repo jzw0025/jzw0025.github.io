@@ -90,9 +90,9 @@ analytics:
 # Site Author
 author:
   name             : "Junchao Wei"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "Research Engineer, Konica Minolta Business Solution, U.S.A"
+  location         : "Foster City, CA"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
