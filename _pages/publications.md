@@ -8,11 +8,6 @@ geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
 spacing: single
-layout: publication
-authors: John Doe and Mary Jane
-publication: Journal of Fancy Research
-year: 2019
-doi: http://dx.doi.org/XX.XXX/
 slides: true
 ---
 
