@@ -13,5 +13,7 @@ main:
 #    url: /sitemap/
   - title: "About"
     url: /About/
+  - title: "Publications"
+    url: /Publications/
   - title: "Blogs"
     url: /Blogs/
