@@ -1,29 +1,26 @@
 ---
 layout: default
-title: Publications
 ---
 
-<h1 class="mt-4">Publications</h1>
-{% assign publications = site.publications | sort: "year" | reverse %}
-{% for pub in publications %}
-<div class="pubitem">
-  <div class="pubteaser">
-    <a href="{{pub.url}}">
-      <img src="/images/{{ pub.slug }}_small.png" alt="{{pub.slug}} publication teaser"/>
-    </a>
-  </div>
-  <div class="pubtitle">
-    {{ pub.title }}
-  </div>
-  <div class="pubauthors">
-    {{ pub.authors }}
-  </div>
-  <div class="pubinfo">
-    {{ pub.publication }}, {{ pub.year}}
-  </div>
-  <div class="publinks">
-    <a href="/download/{{ pub.slug}}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
-    <a href="{{pub.url}}"><i class="fas fa-arrow-right"></i> Project Page</a>
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
   </div>
 </div>
-{% endfor %}
