@@ -8,16 +8,20 @@ geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
 spacing: single
+layout: publication
+authors: John Doe and Mary Jane
+publication: Journal of Fancy Research
+year: 2019
+doi: http://dx.doi.org/XX.XXX/
+slides: true
 ---
 
+## Abstract
 
-**An experienced scientist with a demonstrated history of working in the advanced research institute. Research focuses on Computer Vision and Machine Learning. Skilled in Programming with C++, Python, Java.**
-
-### Research Engineer and Imaging Scientist
-Konica Minolta Business Solutions U.S.A., Inc.\
-Konica Minolta Laboratory U.S.A.\
-Computer Vision and Machine Learning\
-Sep 2018 – Present, San Mateo, CA\
-https://research.konicaminolta.com/
-
-
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
+hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam
+nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis
+natoque penatibus et magnis dis parturient montes, nascetur
+ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique
+diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam
+vestibulum accumsan nisl.
