@@ -22,7 +22,6 @@ author:
   affiliation: Springfield University
 abstract: "This document provides an introduction to R Markdown, argues for its..."
 keywords: "pandoc, r markdown, knitr"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
