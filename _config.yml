@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/bio.jpg"
   bio              : "Research Engineer, Konica Minolta Business Solution, U.S.A."
   location         : "Foster City, CA"
-  email            : "Junchao"
+  #email            : "Junchao"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
