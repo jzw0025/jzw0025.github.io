@@ -1,5 +1,5 @@
 ---
-title:  "Publications"
+title:  "Patents and Publications"
 layout: publications
 permalink: /Publications/
 author_profile: true
@@ -9,6 +9,18 @@ fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
 ---
+
+### U.S Patents 
+
+- U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review) 
+
+- U.S. Patent, B51123US01 “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 (Under Review) 
+
+- U.S. Patent, B50522US01 “Customized Grayscale Conversion in Color Form Processing for Text Recognition in OCR”, September 2019 (Granted) 
+
+- U.S.  Patent, B49785US01 “Method and Apparatus for Real-time Text Replacement in A Natural Scene”, August 2019 (Under Review) 
+
+- U.S. Patent, B50436US01 “2D Image Construction Using 3D Data”, April 2019 (Under Review) 
 
 ### Ph.D. Dissertation  
 
