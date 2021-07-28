@@ -8,16 +8,15 @@ geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
-slides: true
 ---
 
-##Ph.D. Dissertation  
+### Ph.D. Dissertation  
 
 - Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management. 
 
  
 
-##Journal Publications 
+## Journal Publications 
 
 - Sibony, P. A., Wei, J., & Sigal, I. A. (2018). Gaze-Evoked Deformations in Optic Nerve Head Drusen: Repetitive Shearing as a Potential Factor in the Visual and Vascular Complications. Ophthalmology, 125(6), 929-937. 
 
