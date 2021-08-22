@@ -12,15 +12,9 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
-<span style="font-family:Times New Roman; font-size:1em;">TEST1</span>
-<span style="font-family:Times New Roman; font-size:0.75em;">TEST2</span>
-<span style="font-family:Times New Roman; font-size:0.5em;">TEST3</span>
-<span style="font-family:Times New Roman; font-size:0.25em;">TEST4</span>
-<span style="color:red">cardinals</span>
-
 ### U.S Patents 
 
-- U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review) 
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review)</span>
 
 - U.S. Patent, B51123US01 “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 (Under Review) 
 
