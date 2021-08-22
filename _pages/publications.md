@@ -11,13 +11,13 @@ spacing: single
 ---
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Ph.D. Dissertation </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management.</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management.[LINK](https://etd.auburn.edu/handle/10415/5739)</span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Book Chapter </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, 2021.</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, 2021. **Impact Factor: 8.470(2019)** [LINK](https://www.springer.com/gp/book/9783030815752) </span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Journal Publications </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">Sibony, P. A., Wei, J., & Sigal, I. A. (2018). Gaze-Evoked Deformations in Optic Nerve Head Drusen: Repetitive Shearing as a Potential Factor in the Visual and Vascular Complications. Ophthalmology, 125(6), 929-937.</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">Sibony, P. A., Wei, J., & Sigal, I. A. (2018). Gaze-Evoked Deformations in Optic Nerve Head Drusen: Repetitive Shearing as a Potential Factor in the Visual and Vascular Complications. Ophthalmology, 125(6), 929-937.[LINK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7869860/)</span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., & Wei, J. (2015). Prediction of L70 life and assessment of color shift for solid-state lighting using Kalman filter and extended Kalman filter-based models. IEEE Transactions on Device and Materials Reliability, 15(1), 54-68. </span>
 
