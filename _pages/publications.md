@@ -11,7 +11,7 @@ spacing: single
 ---
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Ph.D. Dissertation </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management.[LINK](https://etd.auburn.edu/handle/10415/5739)</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management. [[LINK]](https://etd.auburn.edu/handle/10415/5739)</span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Book Chapter </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, 2021. **Impact Factor: 8.470(2019)** [LINK](https://www.springer.com/gp/book/9783030815752) </span>
