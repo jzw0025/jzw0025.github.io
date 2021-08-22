@@ -10,8 +10,6 @@ fontsize: 8pt
 spacing: single
 ---
 
-[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
-
 #### Ph.D. Dissertation  
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management.</span>
 
