@@ -15,5 +15,8 @@ main:
     url: /About/
   - title: "Patents and Publications"
     url: /Publications/
+  - title: "Research"
+    url: /Research/
   - title: "Blogs"
     url: /Blogs/
+
