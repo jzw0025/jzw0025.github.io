@@ -12,7 +12,7 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
-<span style="font-family:Papyrus; font-size:4em;">
+<span style="font-family:Papyrus; font-size:4em;">TEST</span>
 
 ### U.S Patents 
 
@@ -88,6 +88,5 @@ spacing: single
 
 - Lall, P., Sakalaukus, P., Wei, J., & Davis, L. (2014, May). SSL and LED life prediction and assessment of CCT shift. In Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 2014 IEEE Intersociety Conference on (pp. 1179-1185). IEEE. 
 
-</span>
 
 
