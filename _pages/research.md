@@ -12,14 +12,13 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
-### Ph.D. Dissertation  
+#### Ph.D. Dissertation  
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management.</span>
 
-### Book Chapter 
-
+#### Book Chapter 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, 2021.</span>
 
-### Journal Publications 
+#### Journal Publications 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Sibony, P. A., Wei, J., & Sigal, I. A. (2018). Gaze-Evoked Deformations in Optic Nerve Head Drusen: Repetitive Shearing as a Potential Factor in the Visual and Vascular Complications. Ophthalmology, 125(6), 929-937.</span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., & Wei, J. (2015). Prediction of L70 life and assessment of color shift for solid-state lighting using Kalman filter and extended Kalman filter-based models. IEEE Transactions on Device and Materials Reliability, 15(1), 54-68. </span>
@@ -28,19 +27,17 @@ spacing: single
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Yang, B., Brazile, B., Jan, N. J., Hua, Y., Wei, J., & Sigal, I. A. (2018). Structured polarized light microscopy for collagen fiber structure and orientation quantification in thick ocular tissues. Journal of biomedical optics, 23(10), 106001. </span>
 
-### Journal Under Review 
-
+#### Journal Under Review 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., and Sigal, I. A. “In-vivo and in-situ ex-vivo 3D deformation measurement and comparison of lamina cribrosa microstructure under elevated intraocular pressure using optical coherence tomography” submitted to Investigative Ophthalmology and Visual Science (IOVS). </span>
 
-### U.S Patents 
+#### U.S Patents 
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review)</span>
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51123US01 “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 (Under Review)</span>
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B50522US01 “Customized Grayscale Conversion in Color Form Processing for Text Recognition in OCR”, September 2019 (Granted)</span>
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent, B49785US01 “Method and Apparatus for Real-time Text Replacement in A Natural Scene”, August 2019 (Under Review)</span>
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B50436US01 “2D Image Construction Using 3D Data”, April 2019 (Under Review)</span>
 
-### Conference Papers 
-
+#### Conference Papers 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., Yang, B., Voorhees, A. P., Tran, H., Brazile, B., Wang, B., ... & Sigal, I. A. (2018, February). Measuring in-vivo and in-situ ex-vivo the 3D deformation of the lamina cribrosa microstructure under elevated intraocular pressure. In Optical Elastography and Tissue Biomechanics V (Vol. 10496, p. 1049611). International Society for Optics and Photonics. </span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., & Wei, J. (2017, May). X-ray micro-CT and DVC based analysis of strains in metallization of flexible electronics. In Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 2017 16th IEEE Intersociety Conference on (pp. 1253-1261). IEEE. </span>
@@ -76,6 +73,3 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., Deshpande, S., Wei, J., & Suhling, J. (2014, May). Non-destructive crack and defect detection in SAC solder interconnects using cross-sectioning and X-ray micro-CT. In 2014 IEEE 64th Electronic Components and Technology Conference (ECTC) (pp. 1449-1456). IEEE. </span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., Sakalaukus, P., Wei, J., & Davis, L. (2014, May). SSL and LED life prediction and assessment of CCT shift. In Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 2014 IEEE Intersociety Conference on (pp. 1179-1185). IEEE. </span>
-
-
-
