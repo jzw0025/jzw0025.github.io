@@ -10,7 +10,7 @@ fontsize: 8pt
 spacing: single
 ---
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://github.com/jzw0025/jzw0025.github.io/blob/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
