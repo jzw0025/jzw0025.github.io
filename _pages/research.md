@@ -12,7 +12,9 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
-<span style="font-family:Times New Roman; font-size:4em;">TEST</span>
+<span style="font-family:Times New Roman; font-size:0.75em;">TEST</span>
+<span style="font-family:Times New Roman; font-size:0.5em;">TEST</span>
+<span style="font-family:Times New Roman; font-size:0.25em;">TEST</span>
 <span style="color:red">cardinals</span>
 
 ### U.S Patents 
