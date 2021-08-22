@@ -13,6 +13,7 @@ spacing: single
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
 <span style="font-family:Papyrus; font-size:4em;">TEST</span>
+<span style="color:red">cardinals</span>
 
 ### U.S Patents 
 
