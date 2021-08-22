@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 geometry: margin=1in
 fontfamily: mathpazo
-fontsize: 8pt
+fontsize: 4pt
 spacing: single
 ---
 
