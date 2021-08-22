@@ -1,5 +1,5 @@
 ---
-title:  "Patents and Publications"
+title:  ""
 layout: publications
 permalink: /Publications/
 author_profile: true
