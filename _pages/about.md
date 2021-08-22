@@ -7,9 +7,10 @@ comments: false
 ---
 
 <span style="font-family:Times New Roman; font-size:1 em;"> Research Engineer
+Sep 2018 – Present
 Konica Minolta Laboratory U.S.A.
 Konica Minolta Business Solutions U.S.A., Inc.
-Sep 2018 – Present, San Mateo, CA
+Foster City, CA, 94404
 https://research.konicaminolta.com/</span>
 
 
