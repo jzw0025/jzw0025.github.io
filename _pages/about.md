@@ -10,7 +10,7 @@ spacing: single
 ###*<br/><span style="font-family:Times New Roman; font-size:1 em;"> Research Engineer </span><br/>
 <br/><span style="font-family:Times New Roman; font-size:1 em;"> Sep 2018 – Present.  
 Konica Minolta Laboratory U.S.A.  
-Konica Minolta Business Solutions U.S.A., Inc.  
+Konica Minolta Business Solutions U.S.A., Inc. [Link](https://link-url-here.org)
 Foster City, CA, 94404.  
 https://research.konicaminolta.com/</span><br/>*
 
