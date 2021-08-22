@@ -12,8 +12,6 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
 ### U.S Patents 
 
 - U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review) 
