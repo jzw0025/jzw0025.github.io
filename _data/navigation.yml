@@ -13,10 +13,10 @@ main:
 #    url: /sitemap/
   - title: "About"
     url: /About/
-  - title: "Patents and Publications"
+  - title: "Publication"
     url: /Publications/
   - title: "Research"
     url: /Research/
-  - title: "Blogs"
+  - title: "Blog"
     url: /Blogs/
 
