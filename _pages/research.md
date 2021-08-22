@@ -12,6 +12,8 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
+<span style="font-family:Papyrus; font-size:4em;">
+
 ### U.S Patents 
 
 - U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review) 
@@ -85,3 +87,7 @@ spacing: single
 - Lall, P., Deshpande, S., Wei, J., & Suhling, J. (2014, May). Non-destructive crack and defect detection in SAC solder interconnects using cross-sectioning and X-ray micro-CT. In 2014 IEEE 64th Electronic Components and Technology Conference (ECTC) (pp. 1449-1456). IEEE. 
 
 - Lall, P., Sakalaukus, P., Wei, J., & Davis, L. (2014, May). SSL and LED life prediction and assessment of CCT shift. In Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 2014 IEEE Intersociety Conference on (pp. 1179-1185). IEEE. 
+
+</span>
+
+
