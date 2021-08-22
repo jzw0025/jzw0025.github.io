@@ -1,7 +1,7 @@
 ---
 title:  ""
 layout: publications
-permalink: /Publication/
+permalink: /Publications/
 author_profile: true
 comments: false
 geometry: margin=1in
