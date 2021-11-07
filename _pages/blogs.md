@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-This is my blog page.
+Blog Page
 
 {% for post in site.posts %}
   {% include archive-single.html %}
