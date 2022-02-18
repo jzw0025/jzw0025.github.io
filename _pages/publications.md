@@ -29,11 +29,11 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., and Sigal, I. A. “In-vivo and in-situ ex-vivo 3D deformation measurement and comparison of lamina cribrosa microstructure under elevated intraocular pressure using optical coherence tomography” submitted to Investigative Ophthalmology and Visual Science (IOVS). </span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> U.S Patents </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51387US01 “Text Location Method and Apparatus”, March 2020 (Under Review)</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51123US01 “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 (Under Review)</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B50522US01 “Customized Grayscale Conversion in Color Form Processing for Text Recognition in OCR”, September 2019 (Granted)</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent, B49785US01 “Method and Apparatus for Real-time Text Replacement in A Natural Scene”, August 2019 (Under Review)</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B50436US01 “2D Image Construction Using 3D Data”, April 2019 (Under Review)</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51387US01 “Text Location Method and Apparatus”, Feb. 2022 [[LINK]](https://patents.google.com/patent/US20210303901A1/en) </span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent Application, B51123US01 “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 [[LINK]](https://patents.google.com/patent/US20210303890A1/en) </span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B50522US01 “Customized Grayscale Conversion in Color Form Processing for Text Recognition in OCR”, September 2019 [[LINK]] (https://patents.google.com/patent/US20210303890A1/en) </span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent Application, B49785US01 “Method and Apparatus for Real-time Text Replacement in A Natural Scene”, August 2019 [[LINK]]()</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent Application, B50436US01 “2D Image Construction Using 3D Data”, April 2019</span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Conference Papers </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., Yang, B., Voorhees, A. P., Tran, H., Brazile, B., Wang, B., ... & Sigal, I. A. (2018, February). Measuring in-vivo and in-situ ex-vivo the 3D deformation of the lamina cribrosa microstructure under elevated intraocular pressure. In Optical Elastography and Tissue Biomechanics V (Vol. 10496, p. 1049611). International Society for Optics and Photonics. </span>
