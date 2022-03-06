@@ -1,9 +1,9 @@
 ---
 title:  ""
 layout: publications
-permalink: /Research/
+permalink: /Specializations/
 author_profile: true
-comments: false
+comments: true
 geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 8pt
