@@ -17,6 +17,8 @@ main:
     url: /Publications/
   - title: "Research"
     url: /Research/
+  - title: "Specialization"
+    url: /Specialization/
   - title: "Blog"
     url: /Blogs/
 
