@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jzw0025"
     - label: "Duolingo"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.duolingo.com/profile/jzw0025?via=leagues"
 
 # Site Footer
