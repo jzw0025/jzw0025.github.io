@@ -122,9 +122,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jzw0025"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Duolingo"
+      icon: "fab fa-fw fa-duolingo"
+      url: "https://www.duolingo.com/profile/jzw0025?via=leagues"
 
 # Site Footer
 footer:
