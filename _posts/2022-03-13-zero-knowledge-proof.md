@@ -3,10 +3,10 @@ layout: single
 title:  "Zero-knowledge Proof"
 date:   2022-03-13
 
-header:
-  video:
-    id: fOGdb1CTu5c
-    provider: youtube
+#header:
+#  video:
+#    id: fOGdb1CTu5c
+#    provider: youtube
 ---
 
 *What is Zero-knowledge Proof*
