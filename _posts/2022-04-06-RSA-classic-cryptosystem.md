@@ -13,11 +13,11 @@ RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used
 
 The core idea is to find the least natural number that satisfies the following:
 
-  $$x^r = (mod  N) $$  e.g. $$4^6=91 * 45 + 1 = 1 (mod 91)$$
+  $$x^r = (mod  \;N) $$  e.g. $$4^6=91 * 45 + 1 = 1 (mod \;91)$$
 
 Then, the above can be re-written as: 
 
-  $$x^r - 1 = (x^r/2+1)(x^r/2-1) = 0 (mod N)$$
+  $$x^r - 1 = (x^{r/2}+1)(x^{r/2}-1) = 0 (mod \;N)$$
 
 
 
