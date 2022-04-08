@@ -13,11 +13,17 @@ RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used
 
 The core idea is to find the least natural number that satisfies the following:
 
-$$x^r = (mod  \;N) $$  e.g. $$4^6=91 * 45 + 1 = 1 (mod \;91)$$
+$$x^r = (mod  \;N) $$
 
 Then, the above can be re-written as: 
 
 $$x^r - 1 = (x^{r/2}+1)(x^{r/2}-1) = 0 (mod \;N)$$
 
+We can find the keys using the greatest common divisor:
 
+$$gcd(X1, N) = a1;$$
+$$gcd(X2, N) = a2;$$
+So, we can find: $$N = a1 * a2$$
+
+Where $$(x^{r/2}+1)=X_1 and (x^{r/2}-1)=X_2$$ 
 
