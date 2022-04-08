@@ -17,7 +17,7 @@ $$x^r = (mod  \;N) $$ (This is extremely difficult to find and computational exp
 
 Modular exponentiation is the remainder when an integer b (the base) is raised to the power e (the exponent), and divided by a positive integer m (the modulus); that is:
 
-$$ c = b{e} mod(m) $$
+$$ c = b^{e} mod(m) $$
 
 Modular exponentiation is efficient to compute, even for very large integers. On the other hand, computing the modular discrete logarithm – that is, finding the exponent e when given b, c, and m – is believed to be difficult. This one-way function behavior makes modular exponentiation a candidate for use in cryptographic algorithms.
 
