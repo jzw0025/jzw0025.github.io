@@ -13,7 +13,7 @@ RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used
 
 The core idea is to find the least natural number that satisfies the following:
 
-$$x^r = (mod  \;N) $$
+$$x^r = (mod  \;N) $$ (This is extremely difficult to find and computational expensive)
 
 Then, the above can be re-written as: 
 
@@ -30,4 +30,32 @@ Where:\
 $$(x^{r/2}+1)=X_1$$\
 $$(x^{r/2}-1)=X_2$$
 
+*Algorithm:*
+1. Generating the keys
+Select two large prime numbers, x and y. The prime numbers need to be large so that they will be difficult for someone to figure out. 
 
+2. Calculate:
+ 
+$$n = x * y $$\
+ 
+3. Calculate the totient function; 
+
+$$\phi(n) = (x-1)(y-1)$$ \
+$$ϕ(n)=(x−1)(y−1)$$
+
+4. Select an integer $$e$$, such that $$e$$ is co-prime to $$\phi(n)$$ ϕ(n) and $$1 < e < \phi(n)$$
+. The pair of numbers (n,e) makes up the public key.
+**Note: Two integers are co-prime if the only positive integer that divides them is 1.**
+
+5. Calculate d such that $$e.d = 1 mod(\phi(n))$$
+d can be found using the extended euclidean algorithm. The pair (n,d) makes up the private key.
+
+**Encryption**
+Given a plaintext P, represented as a number, the ciphertext C is calculated as:
+
+$$C = P^{e} mod(n)$$
+
+**Decryption**
+Using the private key (n,d), the plaintext can be found using:
+
+$$P = C^{d} mod(n)$$
