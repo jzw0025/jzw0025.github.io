@@ -9,7 +9,7 @@
 
 RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used for secure data transmission. It is also one of the oldest. The acronym "RSA" comes from the surnames of Ron Rivest, Adi Shamir and Leonard Adleman, who publicly described the algorithm in 1977. An equivalent system was developed secretly in 1973 at GCHQ (the British signals intelligence agency) by the English mathematician Clifford Cocks. That system was declassified in 1997.
 
-*How does RSA work?*
+**How does RSA work?**
 
 The core idea is to find the least natural number that satisfies the following:
 
@@ -30,18 +30,17 @@ Where:\
 $$(x^{r/2}+1)=X_1$$\
 $$(x^{r/2}-1)=X_2$$
 
-*Algorithm:*
+**Algorithm:**
 1. Generating the keys
 Select two large prime numbers, x and y. The prime numbers need to be large so that they will be difficult for someone to figure out. 
 
 2. Calculate:
  
-$$n = x * y $$\
+$$n = x * y $$
  
-3. Calculate the totient function; 
+3. Calculate the totient function 
 
-$$\phi(n) = (x-1)(y-1)$$ \
-$$ϕ(n)=(x−1)(y−1)$$
+$$\phi(n) = (x-1)(y-1)$$
 
 4. Select an integer $$e$$, such that $$e$$ is co-prime to $$\phi(n)$$ ϕ(n) and $$1 < e < \phi(n)$$
 . The pair of numbers (n,e) makes up the public key.
@@ -59,3 +58,29 @@ $$C = P^{e} mod(n)$$
 Using the private key (n,d), the plaintext can be found using:
 
 $$P = C^{d} mod(n)$$
+
+**Pseudocode**
+int x = 61, int y = 53;
+int n = x * y;
+// n = 3233.
+
+// compute the totient, phi
+int phi = (x-1)*(y-1);
+# phi = 3120.
+
+int e = findCoprime(phi);
+# find an 'e' which is > 1 and is a co-prime of phi.
+# e = 17 satisfies the current values.
+
+# Using the extended euclidean algorithm, find 'd' which satisfies 
+# this equation:
+d = (1 mod (phi))/e;
+# d = 2753 for the example values.
+
+public_key = (e=17, n=3233);
+private_key = (d=2753, n=3233);
+
+# Given the plaintext P=123, the ciphertext C is :
+C = (123^17) % 3233 = 855;
+# To decrypt the cypher text C:
+P = (855^2753) % 3233 = 123;
