@@ -60,27 +60,28 @@ Using the private key (n,d), the plaintext can be found using:
 $$P = C^{d} mod(n)$$
 
 **Pseudocode**
+
 int x = 61, int y = 53;
 int n = x * y;
 // n = 3233.
 
 // compute the totient, phi
 'int phi = (x-1)*(y-1);'
-# phi = 3120.
+// phi = 3120.
 
 int e = findCoprime(phi);
-# find an 'e' which is > 1 and is a co-prime of phi.
-# e = 17 satisfies the current values.
+// find an 'e' which is > 1 and is a co-prime of phi.
+// e = 17 satisfies the current values.
 
-# Using the extended euclidean algorithm, find 'd' which satisfies 
-# this equation:
+// Using the extended euclidean algorithm, find 'd' which satisfies 
+// this equation:
 d = (1 mod (phi))/e;
-# d = 2753 for the example values.
+// d = 2753 for the example values.
 
 public_key = (e=17, n=3233);
 private_key = (d=2753, n=3233);
 
-# Given the plaintext P=123, the ciphertext C is :
+// Given the plaintext P=123, the ciphertext C is :
 C = (123^17) % 3233 = 855;
-# To decrypt the cypher text C:
+// To decrypt the cypher text C:
 P = (855^2753) % 3233 = 123;
