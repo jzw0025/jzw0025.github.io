@@ -21,8 +21,8 @@ $$x^r - 1 = (x^{r/2}+1)(x^{r/2}-1) = 0 (mod \;N)$$
 
 We can find the keys using the greatest common divisor:
 
-$$gcd(X1, N) = a1;$$
-$$gcd(X2, N) = a2;$$
+$$gcd(X1, N) = a1;\\$$ 
+$$gcd(X2, N) = a2;\\$$
 So, we can find: $$N = a1 * a2$$
 
 Where $$(x^{r/2}+1)=X_1 $$ , $$ (x^{r/2}-1)=X_2$$ 
