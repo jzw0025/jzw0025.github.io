@@ -65,7 +65,7 @@ int n = x * y;
 // n = 3233.
 
 // compute the totient, phi
-int phi = (x-1)*(y-1);
+'int phi = (x-1)*(y-1);'
 # phi = 3120.
 
 int e = findCoprime(phi);
