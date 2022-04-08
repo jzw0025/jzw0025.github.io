@@ -71,8 +71,7 @@ $$P = C^{d} mod(n)$$
 >int e = findCoprime(phi);\
 >// find an 'e' which is > 1 and is a co-prime of phi.\
 >// e = 17 satisfies the current values.\
->// Using the extended euclidean algorithm, find 'd' which satisfies\ 
->// this equation:\
+>// Using the extended euclidean algorithm, find 'd' which satisfies this equation:\ 
 >d = (1 mod (phi))/e;\
 >// d = 2753 for the example values.\
 >public_key = (e=17, n=3233);\
