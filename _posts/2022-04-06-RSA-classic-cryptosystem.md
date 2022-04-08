@@ -13,7 +13,7 @@ RSA (Rivest–Shamir–Adleman) is a public-key cryptosystem that is widely used
 
 The core idea is to find the least natural number that satisfies the following:
 
-$$x^r = (mod  \;N) $$ (This is extremely difficult to find and computational expensive)
+$$x^r = (mod  \;N) $$ (This is extremely difficult to find and computational expensive for the plain-search decription)
 
 Then, the above can be re-written as: 
 
