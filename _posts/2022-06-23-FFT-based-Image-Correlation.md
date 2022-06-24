@@ -11,11 +11,6 @@
 
 The method is based on the Fourier shift theorem.
 
-Multiplying {\displaystyle x_{n}}x_{n} by a linear phase {\displaystyle e^{{\frac {i2\pi (n-1)}{N}}m}}{\displaystyle e^{{\frac {i2\pi (n-1)}{N}}m}} for some integer m corresponds to a circular shift of the output {\displaystyle X_{k}}X_{k}: {\displaystyle X_{k}}X_{k} is replaced by {\displaystyle X_{k-m}}X_{k-m}, where the subscript is interpreted modulo N (i.e., periodically). Similarly, a circular shift of the input {\displaystyle x_{n}}x_{n} corresponds to multiplying the output {\displaystyle X_{k}}X_{k} by a linear phase. Mathematically, if {\displaystyle \{x_{n}\}}\{x_{n}\} represents the vector x then
-
-if {\displaystyle {\mathcal {F}}(\{x_{n}\})_{k}=X_{k}}{\mathcal {F}}(\{x_{n}\})_{k}=X_{k}
-then {\displaystyle {\mathcal {F}}\left(\left\{x_{n}\cdot e^{{\frac {i2\pi }{N}}nm}\right\}\right)_{k}=X_{k-m}}{\displaystyle {\mathcal {F}}\left(\left\{x_{n}\cdot e^{{\frac {i2\pi }{N}}nm}\right\}\right)_{k}=X_{k-m}}:
-and {\displaystyle {\mathcal {F}}\left(\left\{x_{n-m}\right\}\right)_{k}=X_{k}\cdot e^{-{\frac {i2\pi }{N}}km}}{\displaystyle {\mathcal {F}}\left(\left\{x_{n-m}\right\}\right)_{k}=X_{k}\cdot e^{-{\frac {i2\pi }{N}}km}}
 
 
 $$x^r = (mod  \;N) $$ (This is extremely difficult to find and computational expensive for the plain-search decription)
