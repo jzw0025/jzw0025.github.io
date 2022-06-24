@@ -11,6 +11,7 @@
 
 The method is based on the Fourier shift theorem.
 
+Multiplying $$ x_n $$ by a linear phase $$ e^{{\frac {i2\pi (n-1)}{N} $$
 
 
 $$x^r = (mod  \;N) $$ (This is extremely difficult to find and computational expensive for the plain-search decription)
