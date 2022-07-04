@@ -45,4 +45,4 @@ The inverse of Fourier of a complex exponential is Kronecker delta with the peak
 
 $$ r(x,y) = \delta{(x+\Delta{x}, y+\Delta{y})}$$ 
 
-where $$\Delta{x} and \Delta{y} $$ are the shifts in X and Y directions between the images.
+where $$\Delta{x} , \Delta{y} $$ are the shifts in X and Y directions between the images.
