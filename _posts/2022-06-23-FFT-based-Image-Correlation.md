@@ -27,4 +27,4 @@ $$I_b(x,y)$$ = $$I_a((x-dx) Mod M, (y-dy) Mod N)$$, where the images are M by N 
 
 Then, the discrete Fourier transforms of the images will be shifted relatively in phase:
 
-$$ I_b(u,v) = I_a(u,v) e^{-2\pii(\frac{u*dx/M}+\frac{v*dy/N})}$$
+$$ I_b(u,v) = I_a(u,v) e^{-2i\pi(\frac{u*dx/M}+\frac{v*dy/N})}$$
