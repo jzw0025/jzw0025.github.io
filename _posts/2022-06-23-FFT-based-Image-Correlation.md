@@ -11,7 +11,7 @@
 
 The method is based on the Fourier shift theorem.
 
-Multiplying $$ x_n $$ by a linear phase $$ e^{\frac{i2\pi(n-1)}{N}m}$$ for some integer m corresponds to a circular shift of the output $$x_k$$ : $$x_k$$ is replaced by $$x_{k-m}$$, where the subscript is interpreted modulo N.
+Multiplying $$ x_n $$ by a linear phase $$ e^{\frac{2\pi{i}(n-1)}{N}m}$$ for some integer m corresponds to a circular shift of the output $$x_k$$ : $$x_k$$ is replaced by $$x_{k-m}$$, where the subscript is interpreted modulo N.
 
 Similarly, a circular shift of the input $$x_n$$ corresponds to multiplying the output $$x_k$$ by a linear phase.
 
