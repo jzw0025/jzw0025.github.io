@@ -23,7 +23,8 @@ $$F({x_n * e{\frac{i2\pi(n)}{N}m}})_k = X_{k-m}$$
 
 Let two images $$I_a$$ and $$ I_b $$ be circularly shifted version of each other:
 
-$$I_b(x,y)$$ = $$I_a((x-dx) Mod M, (y-dy) Mod N)$$, where the images are M by N size.
+$$I_b(x,y)$$ = $$I_a((x-dx)Mod(M), (y-dy)Mod(N))$$, 
+where the images are M by N size.
 
 Then, the discrete Fourier transforms of the images will be shifted relatively in phase:
 
