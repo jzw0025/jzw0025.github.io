@@ -23,9 +23,17 @@ $$F({x_n * e{\frac{i2\pi(n)}{N}m}})_k = X_{k-m}$$
 
 Let two images $$I_a$$ and $$ I_b $$ be circularly shifted version of each other:
 
-$$I_b(x,y) = I_a((x-\Delta)Mod(M),(y-\Delta{y})Mod(N))$$, 
-where the images are M by N size.
+$$I_b(x,y) = I_a((x-\Delta{x})Mod(M),(y-\Delta{y})Mod(N))$$, 
+
+    where the images are M by N size.
 
 Then, the discrete Fourier transforms of the images will be shifted relatively in phase:
 
 $$ I_b(u,v) = I_a(u,v) e^{-2\pi{i}(\frac{u*\delta{x}}{M}+\frac{v*\delta{y}}{N})}$$
+
+One can then calculate the normalized cross-power spectrum to factor out the phase differences:
+
+$$ R(u,v) = \frac{I_a \cdot I_b^{*}}{|I_a \cdot I_b^{*}|}$$ 
+
+$$ = \frac{I_a \cdot I_a^{*} \cdot e^{2 \pi{i}(\frac{u*\delta{x}}{M}+\frac{v\delta{y}}{N})}} $$ 
+
