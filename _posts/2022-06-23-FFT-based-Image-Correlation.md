@@ -35,5 +35,14 @@ One can then calculate the normalized cross-power spectrum to factor out the pha
 
 $$ R(u,v) = \frac{I_a \cdot I_b^{*}}{|I_a \cdot I_b^{*}|}$$ 
 
-$$ = \frac{I_a \cdot I_a^{*} \cdot e^{2 \pi{i}(\frac{u*\delta{x}}{M}+\frac{v\delta{y}}{N})}}{I_a \vec I_a^{*}} $$ 
+$$ = \frac{I_a \cdot I_a^{*} \cdot e^{2 \pi{i}(\frac{u\delta{x}}{M}+\frac{v\delta{y}}{N})}}{|I_a \cdot I_a^{*}|} $$ 
 
+$$ = e^{2\pi{i}(\frac{u\delta{x}}{M} + \frac{v\delta{y}}{N})} $$
+
+Since the magnitude of an imaginary exponential is always one, and the phase of $$I_a \cdot I_a^{*} $$ is  always zero.
+
+The inverse of Fourier of a complex exponential is Kronecker delta with the peak indicating the shifts of images at:
+
+$$ r(x,y) = \delta{(x+\Delta{x}, y+\Delta{y})}$$ 
+
+    where $$\Delta{x} and \Delta{y} $$ are the shifts in X and Y directions between the images.
