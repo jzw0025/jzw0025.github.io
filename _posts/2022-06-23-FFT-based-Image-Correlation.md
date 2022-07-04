@@ -35,5 +35,5 @@ One can then calculate the normalized cross-power spectrum to factor out the pha
 
 $$ R(u,v) = \frac{I_a \cdot I_b^{*}}{|I_a \cdot I_b^{*}|}$$ 
 
-$$ = \frac{I_a \cdot I_a^{*} \cdot e^{2 \pi{i}(\frac{u*\delta{x}}{M}+\frac{v\delta{y}}{N})}} $$ 
+$$ = \frac{I_a \cdot I_a^{*} \cdot e^{2 \pi{i}(\frac{u*\delta{x}}{M}+\frac{v\delta{y}}{N})}}{I_a \vec I_a^{*}} $$ 
 
