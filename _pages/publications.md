@@ -10,9 +10,6 @@ fontsize: 8pt
 spacing: single
 ---
 
-#### <span style="font-family:Times New Roman; font-size:0.75em;"> Ph.D. Dissertation </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management. [[LINK]](https://etd.auburn.edu/handle/10415/5739)</span>
-
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Book Chapter </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, Feb.2022. [[LINK]](https://link.springer.com/chapter/10.1007/978-3-030-81576-9_10) <a href="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/book_2022.pdf">[PDF]</a> </span>
 
@@ -36,6 +33,9 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent Application, B50436US01 “2D Image Construction Using 3D Data”, April 2019 [[LINK]](https://patents.google.com/patent/US20200327720A1/en)</span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Conference Papers </span> 
+
+#### <span style="font-family:Times New Roman; font-size:0.75em;"> Ph.D. Dissertation </span> 
+- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management. [[LINK]](https://etd.auburn.edu/handle/10415/5739)</span>
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., Yang, B., Voorhees, A. P., Tran, H., Brazile, B., Wang, B., ... & Sigal, I. A. (2018, February). Measuring in-vivo and in-situ ex-vivo the 3D deformation of the lamina cribrosa microstructure under elevated intraocular pressure. In Optical Elastography and Tissue Biomechanics V (Vol. 10496, p. 1049611). International Society for Optics and Photonics. </span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., & Wei, J. (2017, May). X-ray micro-CT and DVC based analysis of strains in metallization of flexible electronics. In Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 2017 16th IEEE Intersociety Conference on (pp. 1253-1261). IEEE. </span>
