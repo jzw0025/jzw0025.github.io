@@ -1,13 +1,13 @@
 ---
   layout: single
-  title:  "Newly Accepted Paper"
+  title:  "Newly Published Paper"
   date:   2022-12-05
    
 --- 
 
 "Comparing acute IOP-induced lamina cribrosa deformations pre-mortem and post-mortem" - Translational Vision Science and Technology 
 
-[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/tvst.png" width="200"/ >](https://tvst.arvojournals.org/article.aspx?articleid=2783888)
+[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/tvst.png">](https://tvst.arvojournals.org/article.aspx?articleid=2783888)
 
 [LINK](https://tvst.arvojournals.org/article.aspx?articleid=2783888)
 
