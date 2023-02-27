@@ -14,6 +14,8 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, Feb.2022. [[LINK]](https://link.springer.com/chapter/10.1007/978-3-030-81576-9_10) <a href="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/book_2022.pdf">[PDF]</a> </span>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Journal Publications </span> 
+- <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J., Hua, Y., Yang, B., Wang, B., Schmitt, S. E., Wang, B., ... & Sigal, I. A. (2022). Comparing Acute IOP-Induced Lamina Cribrosa Deformations Premortem and Postmortem. Translational Vision Science & Technology, 11(12), 1-1.[[LINK]](https://tvst.arvojournals.org/article.aspx?articleid=2783888)</span>
+
 - <span style="font-family:Times New Roman; font-size:0.75em;">Sibony, P. A., Wei, J., & Sigal, I. A. (2018). Gaze-Evoked Deformations in Optic Nerve Head Drusen: Repetitive Shearing as a Potential Factor in the Visual and Vascular Complications. Ophthalmology, 125(6), 929-937. Impact Factor: 8.470  [[LINK]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7869860/)</span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., & Wei, J. (2015). Prediction of L70 life and assessment of color shift for solid-state lighting using Kalman filter and extended Kalman filter-based models. IEEE Transactions on Device and Materials Reliability, 15(1), 54-68. [[LINK]](https://ieeexplore.ieee.org/document/6967847)</span>
