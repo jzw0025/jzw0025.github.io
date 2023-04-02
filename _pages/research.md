@@ -12,12 +12,9 @@ spacing: single
 
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/google-scholar.png">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 
-### Computer Vision and Machine Learning (AI)
+## Fast Volumetric Image Registration
+<p> PhD Research[LINK] <a href="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p1.pdf">example</a>.</p>
 
-### Fast Volumetric Image Registration
-
-### Statistical Reliability
-
-
+## Statistical Reliability
 
 
