@@ -21,7 +21,7 @@ spacing: single
 <p><span style="font-family:Times New Roman; font-size:0.75em;">Fully Convolutional Networks for Semantic Segmentation.<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/refs/FCN.pdf">[PDF]</a></span></p>
 </body>
 
-<span style="font-family:Times New Roman; font-size:0.75em;"><b>-CNNs/RNNs</b></span>
+<span style="font-family:Times New Roman; font-size:0.75em;"><b>-Transformers</b></span>
  
 <span style="font-family:Times New Roman; font-size:0.75em;"><b>-Diffusion Models</b></span>
 <body>
