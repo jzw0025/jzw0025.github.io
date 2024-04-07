@@ -24,13 +24,6 @@ spacing: single
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Yang, B., Brazile, B., Jan, N. J., Hua, Y., <b>Wei, J.</b>, & Sigal, I. A. (2018). Structured polarized light microscopy for collagen fiber structure and orientation quantification in thick ocular tissues. Journal of biomedical optics, 23(10), 106001. </span>
 
-#### <span style="font-family:Times New Roman; font-size:0.75em;"> U.S Patents </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51387US01 “Text Location Method and Apparatus”, Feb. 2022 [[LINK]](https://patents.google.com/patent/US20210303901A1/en) </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent Application, B51123US01 “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 [[LINK]](https://patents.google.com/patent/US20210303890A1/en) </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B50522US01 “Customized Grayscale Conversion in Color Form Processing for Text Recognition in OCR”, September 2019 [[LINK]] (https://patents.google.com/patent/US20210303890A1/en) </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent Application, B49785US01 “Method and Apparatus for Real-time Text Replacement in A Natural Scene”, August 2019 [[LINK]](https://patents.google.com/patent/US20210097323A1/en)</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent Application, B50436US01 “2D Image Construction Using 3D Data”, April 2019 [[LINK]](https://patents.google.com/patent/US20200327720A1/en)</span>
-
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Ph.D. Dissertation </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management. [[LINK]](https://etd.auburn.edu/handle/10415/5739)</span>
 
