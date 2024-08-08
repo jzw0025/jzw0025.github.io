@@ -48,8 +48,13 @@ spacing: single
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Patent_f7.png" width="500"> </p>
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> Pending Patent Applications </span>
-
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent App., J. Wei, “Method and Apparatus to Generate and Augment Document Forms.”, 2024</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent App., J. Wei, "Digital Stamp Localization and Overlapping Text Removal Method and Apparatus.", 2023</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent App., J. Wei, “Method and apparatus to orient, detect and classify rotated text in images”, 2023</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent App., J. Wei, “Method and Apparatus for Form Identification and Registration Employing Predefined Text Group”, 2023 </span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent App., J. Wei, “Method and Apparatus for Text Restoration in Character Recognition”, 2022</span> 
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent App., J. Wei, “Method and Apparatus for Form Identification and Registration”, 2022</span>
+- <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent App., H. Emami, J. Wei, “Method and Apparatus for Image Generation for Facial Disease Detection Model”, 2022 </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S.  Patent Application, B49785US01 “Method and Apparatus for Real-time Text Replacement in A Natural Scene”, August 2019 [[LINK]](https://patents.google.com/patent/US20210097323A1/en)</span>
-
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent Application, B50436US01 “2D Image Construction Using 3D Data”, April 2019 [[LINK]](https://patents.google.com/patent/US20200327720A1/en)</span>
 
