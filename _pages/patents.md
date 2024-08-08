@@ -11,7 +11,8 @@ spacing: single
 ---
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> U.S Patents </span> 
 
-<br> Granted Patents </br>
+<span style="font-family:Times New Roman; font-size:0.75em;"> Granted Patents </span>
+
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b>U.S. Patent US17/515,230, “Deep Learning Based Text Correction Method and Apparatus”, 2024 </b> [[LINK]](https://patents.google.com/patent/US20210303901A1/en) </span> <span style="font-family:Times New Roman; font-size:0.75em; line-height:0.8"> - A text correction method and apparatus can take advantage of a greatly reduced number of error-ground truth pairs to train a deep learning model. To generate these error-ground truth pairs, different characters in a ground truth word are replaced with a symbol, not appearing in any ground truth words, to generate error words which are paired with that ground truth word to provide error-ground truth word pairs. This process may be repeated for all ground truth words for which training is to be performed. In embodiments, pairs of characters in a ground truth word may be replaced with a symbol to generate the error words which are paired with that ground truth word to provide error-ground truth word pairs. Again, this process may be repeated for all ground truth words for which training is to be performed. </span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">U.S. Patent, B51387US01 “Text Location Method and Apparatus”, Feb. 2022 [[LINK]](https://patents.google.com/patent/US20210303901A1/en) </span>
