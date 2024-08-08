@@ -13,6 +13,9 @@ spacing: single
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Book Chapter </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Wei, J.</b>, “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, Feb.2022. [[LINK]](https://link.springer.com/chapter/10.1007/978-3-030-81576-9_10) <a href="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/book_2022.pdf">[PDF]</a> </span>
 
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Paper_f1.png" width="500"> </p>
+
+
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Journal Publications </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Wei, J.</b>, Hua, Y., Yang, B., Wang, B., Schmitt, S. E., Wang, B., ... & Sigal, I. A. (2022). Comparing Acute IOP-Induced Lamina Cribrosa Deformations Premortem and Postmortem. Translational Vision Science & Technology, 11(12), 1-1.[[LINK]](https://tvst.arvojournals.org/article.aspx?articleid=2783888)</span>
 
