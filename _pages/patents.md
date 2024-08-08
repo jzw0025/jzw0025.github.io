@@ -35,12 +35,17 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;"><b>U.S. Patent, US10764471B1, “Customized Grayscale Conversion in Color Form Processing for Text Recognition in OCR”, September 2019 [[LINK]](https://patents.google.com/patent/US20210303890A1/en)</b> </span>
 <span style="font-family:Times New Roman; font-size:0.75em;"> In a color to grayscale image conversion particularly method suitable for processing color document images such as forms, the color image is analyzed to determined which of the red, green and blue channels are the most dominant, second most dominant, and least dominant channels, based on the amount of information contained in each channel. Then, coefficients are assigned to the three channels, where the coefficient for the most dominant channel is smaller than the coefficient for the second most dominant color channel, which is in turn smaller than the coefficient for the least dominant color channel. The grayscale pixel value is then calculated using a linear combination of the red, green and blue pixel values weighted by their assigned coefficients. In one example, the ratio of the coefficients for the least dominant, the second most dominant and the most dominant channels is 10:3:1. </span>
 <p></p>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Patent_f5.png" width="100"> </p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Patent_f5.png" width="200"> </p>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"><b>U.S. Patent US11354940B2, “Method and Apparatus for Foreground Geometry and Topology Based Face Anti-spoofing”, March 2020 [[LINK]](https://patents.google.com/patent/US20210303890A1/en)</b></span>
 <span style="font-family:Times New Roman; font-size:0.75em;">A method and system to detect visual spoofing of a process of authenticating a person's identity employs computer vision techniques to define characteristics of different kinds of spoofing. Embodiments identify a foreground object within an image and by examining positions and/or orientations of that foreground object within the image, determine whether the presentation of the foreground object is an attempt to spoof the authentication process.</span>
 <p></p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Patent_f6.png" width="500"> </p>
+
+- <span style="font-family:Times New Roman; font-size:0.75em;"><b>U.S. Patent US11537605B2, Method, apparatus, and system for auto-registration of nested tables from unstructured cell association for table-based documentation, Dec. 2022 [[LINK]](https://patents.google.com/patent/US20210303890A1/en)</b></span>
+<span style="font-family:Times New Roman; font-size:0.75em;">In some forms containing keywords and content, there may be nested levels of keywords, also referred to as a hierarchy. Content in the forms may be associated with one or more keywords in one or more of the nested levels, or in the hierarchy. Identifying keywords in adjacent cells in a table (with a nested keyword being either to the right of or below another keyword) enables distinguishing between keywords and content in filled forms, and enables correct association of content with respective keywords. </span>
+<p></p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Patent_f7.png" width="500"> </p>
 
 <span style="font-family:Times New Roman; font-size:0.75em;"> Pending Patent Applications </span>
 
