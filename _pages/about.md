@@ -7,10 +7,13 @@ comments: false
 spacing: single
 ---
 
-**<br/><span style="font-family:Times New Roman; font-size:1 em;"> Research Engineer </span><br/>**
-<br/><span style="font-family:Times New Roman; font-size:0.8 em;"> Sep 2018 – Present.  
-[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/KM_logo.png" width="50">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)[ Konica Minolta Laboratory,](https://research.konicaminolta.com/).
-[Konica Minolta Business Solutions U.S.A., Inc. ](https://kmbs.konicaminolta.us/). (コニカミノルタ) </span><br/>
+**<br/><span style="font-family:Times New Roman; font-size:1 em;"> Research Engineer and Scientist</span><br/>**
+<br/><span style="font-family:Times New Roman; font-size:0.8 em;"> Sr. Research Engineer 2020 – Present.  
+[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/KM_logo.png" width="50">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
+[Konica Minolta(コニカミノルタ) Business Solutions U.S.A.,Inc. ](https://kmbs.konicaminolta.us/)</span><br/>
+
+<br/><span style="font-family:Times New Roman; font-size:0.8 em;"> Imaging Scientist,2018 - 2020 
+[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/KM_logo.png" width="50">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)[ Konica Minolta Laboratory,U.S.A](https://research.konicaminolta.com/).</span><br/>
 
 <br/><span style="font-family:Times New Roman; font-size:0.8 em;"> Previous 2017 - 2018.  
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/OBL_logo.png" width="50">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)[<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Pitt_logo.png" width="50">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)[Ocular Biomechanics Laboratory, University of Pittsburgh](http://www.ocularbiomechanics.com/index.html).</span><br/>
