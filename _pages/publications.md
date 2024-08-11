@@ -10,12 +10,6 @@ fontsize: 8pt
 spacing: single
 ---
 
-#### <span style="font-family:Times New Roman; font-size:0.75em;"> Book Chapter </span> 
-- <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Wei, J.</b>, “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, Feb.2022. [[LINK]](https://link.springer.com/chapter/10.1007/978-3-030-81576-9_10) <a href="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/book_2022.pdf">[PDF]</a> </span>
-<p></p>
-<span style="font-family:Times New Roman; font-size:0.75em; line-height:0.8"> <b>Introduction:</b> Artificial Intelligence (AI) is intelligence performed by designed algorithms. Recently, there are many advancements in the AI field that benefited by the improvements in computational power from the hardware. Meanwhile, there is easy access and availability of data from various platforms. AI technologies with data science can help solve many industrial problems like tracking Solid-state Lighting (SSL) system degradation, classifying LED failures, and predicting Remaining Useful Life (RUL) for the system. The modern AI technologies and fields include Deep Learning (DL) and Computer Vision (CV). Deep Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) is the fundamental network that can be easily adapted to the imaging system for material degradation analysis in the LEDs. In this chapter, firstly, it introduces representative supervised learning algorithms for LED degradation monitoring.</span>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Paper_f1.png" width="500"> </p>
-
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Journal Publications </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Wei, J.</b>, Hua, Y., Yang, B., Wang, B., Schmitt, S. E., Wang, B., ... & Sigal, I. A. (2022). Comparing Acute IOP-Induced Lamina Cribrosa Deformations Premortem and Postmortem. Translational Vision Science & Technology, 11(12), 1-1.[[LINK]](https://tvst.arvojournals.org/article.aspx?articleid=2783888)</span>
 <p></p>
@@ -35,6 +29,12 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;">Lall, P., <b> Wei, J.</b>, & Sakalaukus, P. Life Prediction and Classification of Fault-Modes in Solid State Lamps Using Bayesian Probabilistic Models. IEEE Reliability Digest, 2 (2014):7-18 [[LINK]](https://rs.ieee.org/images/files/newsletters/2015/_13_Life_Prediction_and_Classification_of_Fault-Modes_in_Solid_State_Lamps_Using_Bayesian_Probabilistic_Models_-_0319.pdf)</span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Yang, B., Brazile, B., Jan, N. J., Hua, Y., <b>Wei, J.</b>, & Sigal, I. A. (2018). Structured polarized light microscopy for collagen fiber structure and orientation quantification in thick ocular tissues. Journal of biomedical optics, 23(10), 106001. </span>
+
+#### <span style="font-family:Times New Roman; font-size:0.75em;"> Book Chapter </span> 
+- <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Wei, J.</b>, “Artificial Intelligence and LED degradation” in Reliability of organic compounds in microelectronics and optoelectronics. Springer, Feb.2022. [[LINK]](https://link.springer.com/chapter/10.1007/978-3-030-81576-9_10) <a href="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/book_2022.pdf">[PDF]</a> </span>
+<p></p>
+<span style="font-family:Times New Roman; font-size:0.75em; line-height:0.8"> <b>Introduction:</b> Artificial Intelligence (AI) is intelligence performed by designed algorithms. Recently, there are many advancements in the AI field that benefited by the improvements in computational power from the hardware. Meanwhile, there is easy access and availability of data from various platforms. AI technologies with data science can help solve many industrial problems like tracking Solid-state Lighting (SSL) system degradation, classifying LED failures, and predicting Remaining Useful Life (RUL) for the system. The modern AI technologies and fields include Deep Learning (DL) and Computer Vision (CV). Deep Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) is the fundamental network that can be easily adapted to the imaging system for material degradation analysis in the LEDs. In this chapter, firstly, it introduces representative supervised learning algorithms for LED degradation monitoring.</span>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Paper_f1.png" width="500"> </p>
 
 #### <span style="font-family:Times New Roman; font-size:0.75em;"> Ph.D. Dissertation </span> 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Wei, J. (2017). In-situ Electronics Measurement Using X-ray Micro-Computed Tomography System and Data Driven Prognostic Health Management. [[LINK]](https://etd.auburn.edu/handle/10415/5739)</span>
