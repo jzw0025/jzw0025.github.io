@@ -14,8 +14,8 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;"> In short, my research not only bridges the gap between in-situ mechanics and 3D computer vision but also addresses critical issues in medical and electronic domains. Looking ahead, my future research interests lie in expanding these investigations and exploring new avenues at the forefront of in-situ mechanics, computational imaging, and their applications in diverse fields.</span>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b> Research Showcases </b> </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> <b>X-ray Micro-CT</b> and <b>DVC</b> Based Analysis of Strains in Metallization of Flexible Electronics. <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p1.pdf">[LINK]</a>.</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Measuring <b>In-vivo</b> and <b>In-situ Ex-vivo</b> the 3D Deformation of the Lamina Cribrosa Microstructure under Elevated Intraocular Pressure <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p2.pdf">[LINK]</a>.</p>
+1. <span style="font-family:Times New Roman; font-size:0.75em;"> <b>X-ray Micro-CT</b> and <b>DVC</b> Based Analysis of Strains in Metallization of Flexible Electronics. <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p1.pdf">[LINK]</a>.</span>
+2. <span style="font-family:Times New Roman; font-size:0.75em;"> Measuring <b>In-vivo</b> and <b>In-situ Ex-vivo</b> the 3D Deformation of the Lamina Cribrosa Microstructure under Elevated Intraocular Pressure <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p2.pdf">[LINK]</a>.</span>
 
 </body>
 # Technique and Methodology
