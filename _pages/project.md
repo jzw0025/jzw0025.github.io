@@ -17,9 +17,8 @@ spacing: single
 
 <figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/face_antispoofing_blur.gif" width=500 height=500 alt="Image 1">
-<figcaption> <b>Real-time</b> face <b>anti-spoofing</b> approach for <b>surveillance camera</b> security applitions: it applies <b>foreground and geometry-based algorithms</b> with <b>Face Detection engine</b> to achieve <b>>60FPS</b> real-time speed performance. <b>Note:</b> the algorithm has been patented in the <b>U.S. 11,354,940 B2</b></figcaption>
+<figcaption> <b>Real-time</b> face <b>anti-spoofing</b> approach for <b>surveillance camera</b> security applitions: it applies <b>foreground and geometry-based algorithms</b> with <b>Face Detection engine</b> to achieve <b>>60FPS</b> real-time speed performance. <b>Note:</b> the algorithm has been patented in the <b>U.S. 11,354,940 B2</b>[[LINK]](https://patentimages.storage.googleapis.com/ac/b6/e7/073700a9014afb/US11354940.pdf) </figcaption>
 </figure>
-[[LINK]](https://patentimages.storage.googleapis.com/ac/b6/e7/073700a9014afb/US11354940.pdf)
 
 <figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=500 height=500 alt="Image 1">
