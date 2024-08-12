@@ -16,6 +16,11 @@ spacing: single
 </figure>
 
 <figure>
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/stereo_medical_image.gif" width=500 height=500 alt="Image 1">
+<figcaption> <b>3D Visualization</b> of <b>volumetric image</b> with <b>stereo vision OpenGL</b> render. It uses the stereo-vision algorithm for the <b>3D OCT reconstruction</b> images of Lamina Cribrosa tissue on the back of the eye. Note: this <b>Anaglyph 3D video</b> can be viewed on the website through a pair of red&cyan glasses.</figcaption>
+</figure>
+
+<figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/face_antispoofing_blur.gif" width=500 height=500 alt="Image 1">
 <figcaption> <b>Real-time</b> face <b>anti-spoofing</b> approach for <b>surveillance camera</b> security applitions: it applies <b>foreground and geometry-based algorithms</b> with <b>Face Detection engine</b> to achieve <b>>60FPS</b> real-time speed performance. <b>Note:</b> the algorithm has been patented in the <b>U.S. 11,354,940 B2</b></figcaption>
 </figure>
