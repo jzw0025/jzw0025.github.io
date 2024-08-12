@@ -9,6 +9,16 @@ fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
 ---
+<style>
+aside.figures {
+    overflow: hidden; /* only needed if floating the child elements instead of using inline-block */
+}
+
+aside.figures figure {
+    display: inline-block;
+    border: 1px solid;
+}
+</style>
 
 <aside class="figures">
 <figure>
