@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Junchao Wei"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "Ph.D."
-  location         : "Foster City, CA"
+  bio              : "Ph.D. in Engineering, Auburn University"
+  location         : "San Francisco Bay Area, CA"
   #email            : "Junchao"
   links:
     - label: "Email"
