@@ -22,7 +22,7 @@ spacing: single
 
 <figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/stereo_demo1.gif" width=500 height=500 alt="Image 1">
-<figcaption> 3D Stereo-vision Visualization(i.e. Google Cardboard with the cellphone screen). The 3D(RGBD) camera outputs were processed and rendered in real-time using OpenGL library, in which left eye and right eye information were processed and synchronized in two different frustrums and projections. This also can be applied with the tracking and measurement project to get human inputs/interactions in real-time. </figcaption>
+<figcaption> <b>3D Stereo-vision Visualization</b>(i.e. Google Cardboard with the cellphone screen). The <b>3D(RGBD) camera</b> outputs were processed and rendered in real-time with <b>OpenGL</b> library, in which <b>left eye</b> and <b>right eye</b> information were processed and <b>synchronized</b> in two different <b>frustrums and projections</b>. This also can be applied with the tracking and measurement project to get human inputs/interactions in real-time. </figcaption>
 </figure>
 
 <figure>
