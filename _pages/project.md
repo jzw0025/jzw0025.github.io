@@ -12,22 +12,22 @@ spacing: single
 
 <aside class="figures">
 <figure>
-<img src=src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
 <figcaption>caption 1</figcaption>
 </figure>
 
 <figure>
-<img src=src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
 <figcaption>caption 2</figcaption>
 </figure>
 
 <figure>
-<img src=src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
 <figcaption>caption 3</figcaption>
 </figure>
 
 <figure>
-<img src=src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
 <figcaption>capton 4</figcaption>
 </figure>
 </aside>
