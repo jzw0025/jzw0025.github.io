@@ -17,12 +17,11 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b>X-ray Micro-CT</b> and <b>DVC</b> Based Analysis of Strains in Metallization of Flexible Electronics. <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p1.pdf">[LINK]</a>.</span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Measuring <b>In-vivo</b> and <b>In-situ Ex-vivo</b> the 3D Deformation of the Lamina Cribrosa Microstructure under Elevated Intraocular Pressure <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p2.pdf">[LINK]</a>.</span>
 
-# Technique and Methodology
+- <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Technique and Methodology</b> </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Fast Volumetric Image Registration </span>
-
+- <span style="font-family:Times New Roman; font-size:0.75em;"> 3D Volumetric Image Restoration and Enhancement </span>
+- <span style="font-family:Times New Roman; font-size:0.75em;"> Signal Filtering and Tracking: Extended Kalman Filter and Particle Filter </span>
 
 # Statistical Reliability and Prediction
-<p> Book Chapter <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/book_2022.pdf">[LINK]</a>.</p>
-
  <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width="500"> </p>
 
