@@ -9,43 +9,11 @@ fontfamily: mathpazo
 fontsize: 8pt
 spacing: single
 ---
-<style>
-aside.figures {
-    overflow: hidden; /* only needed if floating the child elements instead of using inline-block */
-}
-
-aside.figures figure {
-    display: inline-block;
-    border: 1px solid;
-}
-</style>
 
 <figure>
-<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=160 height=120 alt="Image 1">
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/real_time_measurement.gif" width=500 height=500 alt="Image 1">
 <figcaption>caption 1</figcaption>
 </figure>
-
-<aside class="figures">
-<figure>
-<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=160 height=120 alt="Image 1">
-<figcaption>caption 1</figcaption>
-</figure>
-
-<figure>
-<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=160 height=120 alt="Image 1">
-<figcaption>caption 2</figcaption>
-</figure>
-
-<figure>
-<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
-<figcaption>caption 3</figcaption>
-</figure>
-
-<figure>
-<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=320 height=240 alt="Image 1">
-<figcaption>capton 4</figcaption>
-</figure>
-</aside>
 
 
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width="500"> </p>
