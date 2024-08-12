@@ -13,6 +13,8 @@ main:
 #    url: /sitemap/
   - title: "About"
     url: /About/
+  - title: "Project"
+    url: /Project/
   - title: "Publication"
     url: /Publications/
   - title: "Patent"
