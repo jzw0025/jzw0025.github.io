@@ -21,6 +21,11 @@ spacing: single
 </figure>
 
 <figure>
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/stereo_demo1.gif" width=500 height=500 alt="Image 1">
+<figcaption> 3D Stereo-vision Visualization(i.e. Google Cardboard with the cellphone screen). The 3D(RGBD) camera outputs were processed and rendered in real-time using OpenGL library, in which left eye and right eye information were processed and synchronized in two different frustrums and projections. This also can be applied with the tracking and measurement project to get human inputs/interactions in real-time. </figcaption>
+</figure>
+
+<figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/face_antispoofing_blur.gif" width=500 height=500 alt="Image 1">
 <figcaption> <b>Real-time</b> face <b>anti-spoofing</b> approach for <b>surveillance camera</b> security applitions: it applies <b>foreground and geometry-based algorithms</b> with <b>Face Detection engine</b> to achieve <b>>60FPS</b> real-time speed performance. <b>Note:</b> the algorithm has been patented in the <b>U.S. 11,354,940 B2</b></figcaption>
 </figure>
