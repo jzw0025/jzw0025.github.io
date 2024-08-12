@@ -20,6 +20,11 @@ aside.figures figure {
 }
 </style>
 
+<figure>
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=160 height=120 alt="Image 1">
+<figcaption>caption 1</figcaption>
+</figure>
+
 <aside class="figures">
 <figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=160 height=120 alt="Image 1">
