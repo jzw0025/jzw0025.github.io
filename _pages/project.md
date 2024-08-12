@@ -12,7 +12,7 @@ spacing: single
 
 <figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/real_time_measurement.gif" width=500 height=500 alt="Image 1">
-<figcaption>caption 1</figcaption>
+<figcaption> <b>Real-time</b> Objects Depth and Distance <b>Tracking and Measurement</b> in <b>3D Geomtry</b>: this project applies Intel Realsense 3D Cameras to acquire <b>RGBD imaging data</b> and to process the <b>Point Cloud Data</b> with <b>OpenGL Graphics Library</b> to visualize the real-time information with <b>Users' inputs/interactions</b>. </figcaption>
 </figure>
 
 
