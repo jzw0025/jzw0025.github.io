@@ -24,11 +24,6 @@ spacing: single
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=500 height=500 alt="Image 1">
 <figcaption> <b>Real-time spotting-OCR method</b> for meter digits detection and recognition: it utilizes <b>DETR(Detection Transformer Network)</b> for digits object bounding box detection and recognition. </figcaption>
 </figure>
-<p> &nbsp; &nbsp; &nbsp; &nbsp;  </p>
 
-- <span style="font-family:Times New Roman; font-size:0.75em;"> <b>Technique and Methodology</b> </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Fast Volumetric Image Registration </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> 3D Volumetric Image Restoration and Enhancement </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Signal Filtering and Tracking: Extended Kalman Filter and Particle Filter </span>
 
 

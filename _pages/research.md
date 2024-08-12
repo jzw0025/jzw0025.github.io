@@ -21,6 +21,3 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Fast Volumetric Image Registration </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> 3D Volumetric Image Restoration and Enhancement </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Signal Filtering and Tracking: Extended Kalman Filter and Particle Filter </span>
-
- <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width="500"> </p>
-
