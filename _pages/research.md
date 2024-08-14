@@ -15,7 +15,7 @@ spacing: single
 - <span style="font-family:Times New Roman; font-size:0.75em;"> The three main areas of my research can be delineated as follows: </span> 
 <p style="font-family:Times New Roman; font-size:0.75em"> <b>Glaucoma Prediction and Prevention from Tissue Mechanics:</b> I delve into the mechanics of tissues to predict and prevent glaucoma, exploring how deformations in structures like the lamina cribrosa contribute to the loss of neural tissue. This work contributes to a deeper understanding of tissue degenerations and facilitates early intervention strategies. </p>
 <p> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/in_situ_strain.gif" width="600">
-<p style="font-family:Times New Roman; font-size:0.75em;"> <b>Figure 1: </b>Streth Deformation(Tensile Strain) computed between at two controlled pressures on the ONH tissue.</p>
+<p style="font-family:Times New Roman; font-size:0.75em;"> <b>Figure 1: </b>Streth Deformation(Tensile Strain) computed between two controlled pressures on the ONH tissue.</p>
 <p> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/research_f1_1.png" width="300"> &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/research_f1_2.png" width="300"> </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> <b>Figure 2: </b> <b>In-vivo(Left) and Ex-vivo(Right)</b> Various Deformation computed between paired piecewise pressures on the ONH tissue.</p>
  
