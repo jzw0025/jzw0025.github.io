@@ -20,8 +20,7 @@ spacing: single
  - <span style="font-family:Times New Roman; font-size:0.75em;"><b>Conclusions:</b> Increasing IOP acutely caused nonlinear LC deformations with an overall smaller effect postmortem than premortem. Locally, deformations premortem and postmortem were sometimes substantially different. We suggest that the differences may be due to weakened mechanical support.</span> 
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Paper_f2.png" width="700"> </p>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Paper_f2_1.gif" width="320"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/Paper_f2_2.gif" width="320"> 
-<p style="font-family:Times New Roman; font-size:0.75em; line-height:0.8"><b>Before the 3D Registration(Left):</b> Reference(Green),Deformed(Red),Aligned(Yellow);</p> 
-<p style="font-family:Times New Roman; font-size:0.75em; line-height:0.8"><b>After the 3D Registration(Right):</b> Reference(Green),Deformed(Red),Aligned(Yellow);</p>
+<p style="font-family:Times New Roman; font-size:0.75em; line-height:0.8"><b>Before(Left) and After(Right) the 3D Registration(Left):</b> Reference(Green),Deformed(Red),Aligned(Yellow);</p> 
 
 - <span style="font-family:Times New Roman; font-size:0.75em;">Sibony, P. A., <b>Wei, J.</b>, & Sigal, I. A. (2018). Gaze-Evoked Deformations in Optic Nerve Head Drusen: Repetitive Shearing as a Potential Factor in the Visual and Vascular Complications. Ophthalmology, 125(6), 929-937. <b>Impact Factor: 13.1</b>  [[LINK]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7869860/)</span>
 <p></p>
