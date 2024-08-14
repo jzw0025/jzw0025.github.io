@@ -21,10 +21,7 @@ spacing: single
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> In short, my research not only bridges the gap between <b>in-situ mechanics</b> and <b>3D computer vision</b> but also addresses critical issues in medical and electronic domains. Looking ahead, my future research interests lie in expanding these investigations and exploring new avenues at the forefront of in-situ mechanics, computational imaging, and their applications in diverse fields.</span>
 
-<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match3.gif" width="280"> </p>
-<p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; - Deformable 3D Volume matching and Iso-surfaces alignment visualization: Two Volumetric Images are matched and aligned through the sub-volume optimization(sub-voxel accuracy) algorithm.</p>
-
-
+- <span style="font-family:Times New Roman; font-size:0.75em;"> <b> Techniques and Methods </b> </span>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match3.gif" width="280"> </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; - Deformable 3D Volume matching and Iso-surfaces alignment visualization: Two Volumetric Images are matched and aligned through the sub-volume optimization(sub-voxel accuracy) algorithm.</p>
 
