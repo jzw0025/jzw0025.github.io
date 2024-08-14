@@ -15,12 +15,12 @@ main:
     url: /About/
   - title: "Project"
     url: /Project/
+  - title: "Research"
+    url: /Research/
   - title: "Publication"
     url: /Publications/
   - title: "Patent"
     url: /Patents/
-  - title: "Research"
-    url: /Research/
   - title: "Specialization"
     url: /Specialization/
   - title: "Blog"
