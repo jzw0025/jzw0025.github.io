@@ -31,6 +31,11 @@ spacing: single
 </figure>
 
 <figure>
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/robo_demo1.gif" width=500 height=500 alt="Image 1">
+<figcaption> <b>Robotic Vision Project:</b> The design of <b>Robotic and Machine Vision</b> System for Objects <b>Detection, Segmentation, Localization, and Transferring</b>, the individual bold can be detected and then picked up by the robotic arm giving the accurate location and pinpoint touch in the <b>3D Coordinates<X-Y-Z></b> for picking. The projects use the open source the <b>"EEZYbotARM"</b> arm design with <b>Intel realsense 415</b> 3D camera and <b>Fast-RCNN model</b> for training the vision network. </figcaption>
+</figure>
+
+<figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/meter.gif" width=500 height=500 alt="Image 1">
 <figcaption> <b>Real-time spotting-OCR method</b> for meter digits detection and recognition: it utilizes <b>DETR(Detection Transformer Network)</b> for digits object bounding box detection and recognition. </figcaption>
 </figure>
