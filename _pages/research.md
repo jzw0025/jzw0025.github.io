@@ -33,7 +33,7 @@ spacing: single
 
 <p style="font-family:Times New Roman; font-size:0.75em;"> <b>Fast Volumetric Image Registration</b></p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> Rigid-body 3D Volume matching: two subsets of Point Clouds from discretized 3D volumetric images are aligned and registered using ICP algorithm.</p>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/svd_icp.gif" width="280"> </p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/svd_icp.gif" width="280"> </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> Deformable 3D Volume matching and Iso-surfaces alignment visualization: Two Volumetric Images are matched and aligned through the sub-volume optimization(sub-voxel accuracy) algorithm.</p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match3.gif" width="280"> </p>
 
