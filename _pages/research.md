@@ -27,11 +27,12 @@ spacing: single
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b> Special Topics</b> </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Finite Element Method </span>
-<p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; - Deformable 3D Volume matching and Iso-surfaces alignment visualization: Two Volumetric Images are matched and aligned through the sub-volume optimization(sub-voxel accuracy) algorithm.</p>
+<p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; Real Geometry Discretization Method: Poisson-Disc Sampling and Delaunay Triangulation Algorithm: it shows the unstrained(left) vs constrained(right) geometry sampling, and the random points are placed with the minimum distance D(i,j) for each point-j in 2D coordinate.</p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/poisson_1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/poisson_2.gif" width="280"> </p>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Fast Volumetric Image Registration </span>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match3.gif" width="280"> </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; Deformable 3D Volume matching and Iso-surfaces alignment visualization: Two Volumetric Images are matched and aligned through the sub-volume optimization(sub-voxel accuracy) algorithm.</p>
+<p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match3.gif" width="280"> </p>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> 3D Volumetric Image Restoration and Enhancement </span>
 - <span style="font-family:Times New Roman; font-size:0.75em;"> Signal Filtering and Tracking: Extended Kalman Filter and Particle Filter </span>
