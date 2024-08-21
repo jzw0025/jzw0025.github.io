@@ -26,18 +26,19 @@ spacing: single
 <p style="font-family:Times New Roman; font-size:0.75em;"> In short, my research not only bridges the gap between <b>in-situ mechanics</b> and <b>3D computer vision</b> but also addresses critical issues in medical and electronic domains. Looking ahead, my future research interests lie in expanding these investigations and exploring new avenues at the forefront of in-situ mechanics, computational imaging, and their applications in diverse fields.</p>
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b> Special Topics</b> </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Finite Element Method </span>
+
+<p style="font-family:Times New Roman; font-size:0.75em;"> Finite Element Method </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; Real Geometry Discretization Method: Poisson-Disc Sampling and Delaunay Triangulation Algorithm: it shows the unstrained(left) vs constrained(right) geometry sampling, and the random points are placed with the minimum distance D(i,j) for each point-j in 2D coordinate.</p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/poisson_1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/poisson_2.gif" width="280"> </p>
 
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Fast Volumetric Image Registration </span>
+<p style="font-family:Times New Roman; font-size:0.75em;"> Fast Volumetric Image Registration </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> &nbsp; &nbsp; &nbsp; &nbsp; Deformable 3D Volume matching and Iso-surfaces alignment visualization: Two Volumetric Images are matched and aligned through the sub-volume optimization(sub-voxel accuracy) algorithm.</p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match1.gif" width="280"><img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/deformable_subset_match3.gif" width="280"> </p>
 
-- <span style="font-family:Times New Roman; font-size:0.75em;"> 3D Volumetric Image Restoration and Enhancement </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Signal Filtering and Tracking: Extended Kalman Filter and Particle Filter </span>
+<p style="font-family:Times New Roman; font-size:0.75em;"> 3D Volumetric Image Restoration and Enhancement </p>
+<p style="font-family:Times New Roman; font-size:0.75em;"> Signal Filtering and Tracking: Extended Kalman Filter and Particle Filter </p>
 
 
 - <span style="font-family:Times New Roman; font-size:0.75em;"> <b> Research Showcases </b> </span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> <b>X-ray Micro-CT</b> and <b>DVC</b> Based Analysis of Strains in Metallization of Flexible Electronics. <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p1.pdf">[LINK]</a>.</span>
-- <span style="font-family:Times New Roman; font-size:0.75em;"> Measuring <b>In-vivo</b> and <b>In-situ Ex-vivo</b> the 3D Deformation of the Lamina Cribrosa Microstructure under Elevated Intraocular Pressure <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p2.pdf">[LINK]</a>.</span>
+<p style="font-family:Times New Roman; font-size:0.75em;"> <b>X-ray Micro-CT</b> and <b>DVC</b> Based Analysis of Strains in Metallization of Flexible Electronics. <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p1.pdf">[LINK]</a>.</p>
+<p style="font-family:Times New Roman; font-size:0.75em;"> Measuring <b>In-vivo</b> and <b>In-situ Ex-vivo</b> the 3D Deformation of the Lamina Cribrosa Microstructure under Elevated Intraocular Pressure <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/p2.pdf">[LINK]</a>.</p>
