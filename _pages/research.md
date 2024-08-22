@@ -19,7 +19,7 @@ spacing: single
 <p> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/research_f1_1.png" width="300"> &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/research_f1_2.png" width="300"> </p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> <b>Figure 2: </b> <b>In-vivo(Left) and Ex-vivo(Right)</b> Various Deformation computed between paired piecewise pressures on the ONH tissue.</p>
  
-<p> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/dvc_rigid.gif" width="600"></p>
+<p> &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/dvc_rigid.gif" width="500"></p>
 <p style="font-family:Times New Roman; font-size:0.75em;"> <b>Figure 3: </b> <b>Volumetric Registration</b> two scanned volumes are aligned and registered under the same coordinate and the view shows the slicing through coronal, sagittal and transverse plane. </p>
 
 <p style="font-family:Times New Roman; font-size:0.75em"> <b>Computational Mechanics of Flexible Electronics:</b> My research investigates the computational mechanics of flexible electronics, specifically addressing the deformation and reliability of electronic components under various conditions. This encompasses the study of LEDs chip deformation during operation and solder joint deformation in mechanical bending tests, shedding light on the behavior of flexible electronic systems.</p> 
