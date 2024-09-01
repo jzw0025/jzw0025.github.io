@@ -7,7 +7,7 @@ comments: false
 spacing: single
 ---
 
-**<br/><span style="font-family:Times New Roman; font-size:1 em;"> Research Engineer and Scientist</span><br/>**
+**<br/><span style="font-family:Times New Roman; font-size:1 em;"> A engineer scientist </span><br/>**
 <br/><span style="font-family:Times New Roman; font-size:0.8 em;"> Sr. Research Engineer (in R&D), Foster City, CA, 2020 – Present.  
 [<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/KM_logo.png" width="50">](https://scholar.google.com/citations?user=7sJEXqMAAAAJ&hl=en)
 [Konica Minolta(コニカミノルタ) Business Solutions,Inc.](https://kmbs.konicaminolta.us/)</span><br/>
