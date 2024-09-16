@@ -26,6 +26,11 @@ spacing: single
 </figure>
 
 <figure>
+<img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/stereo_demo2.gif" width=500 height=500 alt="Image 1">
+<figcaption> <b>3D Stereo-vision Visualization</b>(i.e. Google Cardboard with the cellphone screen). The near-far objects are created with texture binding on the squares geometry, and its translations and rotations are visually tested in real-time with the stereo glasses in the <b>OpenGL</b> environment.</figcaption>
+</figure>
+
+<figure>
 <img src="https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_imgs/face_antispoofing_blur.gif" width=500 height=500 alt="Image 1">
 <figcaption> <b>Real-time</b> face <b>anti-spoofing</b> approach for <b>surveillance camera</b> security applitions: it applies <b>foreground and geometry-based algorithms</b> with <b>Face Detection engine</b> to achieve <b>>60FPS</b> real-time speed performance. <b>Note:</b> the algorithm has been patented in the <b>U.S. 11,354,940 B2</b></figcaption>
 </figure>
