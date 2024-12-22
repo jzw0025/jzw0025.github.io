@@ -60,7 +60,7 @@ spacing: single
 <p><span style="font-family:Times New Roman; font-size:0.75em;">Image-to-Image Translation with Conditional Adversarial Networks.<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/refs/Image-to-Image Translation with Conditional Adversarial Networks.pdf">[PDF]</a></span></p>
 </body>
 
-ccept-Reject Method](https://jblevins.org/notes/accept-reject)  
+[Accept-Reject Method](https://jblevins.org/notes/accept-reject)  
 [Metropolis–Hastings algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)    
 [Multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit)  
 [Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)  
