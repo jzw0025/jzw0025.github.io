@@ -60,18 +60,25 @@ spacing: single
 <p><span style="font-family:Times New Roman; font-size:0.75em;">Image-to-Image Translation with Conditional Adversarial Networks.<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jzw0025/jzw0025.github.io/main/_pdfs/refs/Image-to-Image Translation with Conditional Adversarial Networks.pdf">[PDF]</a></span></p>
 </body>
 
-[Accept-Reject Method](https://jblevins.org/notes/accept-reject)  
-[Metropolis–Hastings algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)    
-[Multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit)  
-[Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)  
-[James Webb Space Telescope](https://science.nasa.gov/mission/webb/)  
+### Reinforcement Learning
 [Gymnasium Documentation](https://gymnasium.farama.org/api/spaces/#gymnasium.spaces.Space)  
 [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/)  
-[Unsloth](https://unsloth.ai/)  
-[Llama 3.2 Vision fine-tuning](https://unsloth.ai/blog/vision)  
+[Multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit)  
+
+### Science
+[James Webb Space Telescope](https://science.nasa.gov/mission/webb/)  
+[Hacker-fab lithgraphy](https://hackerfab.ece.cmu.edu/team/)  
+
+### Statistics
+[Accept-Reject Method](https://jblevins.org/notes/accept-reject)  
+[Metropolis–Hastings algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)    
+
+### Github Projects
+[Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)  
 [unsloth github](https://github.com/unslothai)  
+[Llama 3.2 Vision fine-tuning](https://unsloth.ai/blog/vision)  
 [Hugging Face ROCOv2-radiology](https://huggingface.co/datasets/eltorio/ROCOv2-radiology)  
 [unilm-trOCR](https://github.com/microsoft/unilm/tree/6f60612e7cc86a2a1ae85c47231507a587ab4e01/trocr)  
 [Transformers-tutorial](https://github.com/NielsRogge/Transformers-Tutorials/tree/master?tab=readme-ov-file)  
-[Hacker-fab lithgraphy](https://hackerfab.ece.cmu.edu/team/)  
+
 
