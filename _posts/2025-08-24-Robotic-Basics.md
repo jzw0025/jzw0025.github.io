@@ -27,16 +27,13 @@ In this post, we'll explore the basics of quaternions, their physical meaning, a
 
 ---
 
-## 🧮 Quaternion Basics
+## Quaternion Basics
 
 A quaternion is typically written as:
-\[
-q = a + bi + cj + dk
-\]
+$$q = a + bi + cj + dk$$
+
 Or in vector form:
-\[
-q = [a, b, c, d]
-\]
+$$q = [a, b, c, d]$$
 
 Where:
 - **`a`**: The scalar (real) part.
@@ -46,22 +43,17 @@ Together, these components encode a rotation in 3D space.
 
 ---
 
-## 🔁 Physical Meaning of Quaternion Components
+## Physical Meaning of Quaternion Components
 
 Quaternions represent a rotation by an angle \( \theta \) around a unit axis \( \vec{u} = (u_x, u_y, u_z) \). The components of the quaternion are:
 
-\[
-a = \cos\left(\frac{\theta}{2}\right)
-\]
-\[
-b = u_x \cdot \sin\left(\frac{\theta}{2}\right)
-\]
-\[
-c = u_y \cdot \sin\left(\frac{\theta}{2}\right)
-\]
-\[
-d = u_z \cdot \sin\left(\frac{\theta}{2}\right)
-\]
+$$a = \cos\left(\frac{\theta}{2}\right)$$
+
+$$b = u_x \cdot \sin\left(\frac{\theta}{2}\right)$$
+
+$$c = u_y \cdot \sin\left(\frac{\theta}{2}\right)$$
+
+$$d = u_z \cdot \sin\left(\frac{\theta}{2}\right)$$
 
 ### Key Points:
 - **`a`** controls the rotation angle.
@@ -71,7 +63,7 @@ This is known as the **axis-angle representation**, compactly encoded in quatern
 
 ---
 
-## 🔄 Connection to Euler Angles
+## Connection to Euler Angles
 
 Euler angles describe rotation as a sequence of rotations around the X, Y, and Z axes (e.g., roll, pitch, yaw). However, they suffer from **gimbal lock**, where two axes align, causing a loss of one degree of freedom.
 
@@ -84,18 +76,13 @@ Quaternions avoid this by representing rotation as a single rotation around an a
 
 For a ZYX rotation order (yaw, pitch, roll), the quaternion components can be calculated as:
 
-\[
-a = \cos\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) + \sin\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right)
-\]
-\[
-b = \sin\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) - \cos\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right)
-\]
-\[
-c = \cos\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) + \sin\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right)
-\]
-\[
-d = \cos\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right) - \sin\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right)
-\]
+$$a = \cos\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) + \sin\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right)$$
+
+$$b = \sin\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) - \cos\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right)$$
+
+$$c = \cos\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) + \sin\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right)$$
+
+$$d = \cos\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right) - \sin\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right)$$
 
 Where:
 - \( \phi \): Roll (rotation around X-axis).
@@ -104,7 +91,7 @@ Where:
 
 ---
 
-## 🧠 Why Quaternions Matter
+## Why Quaternions Matter
 
 Quaternions are widely used in various fields due to their stability and efficiency:
 
@@ -125,4 +112,3 @@ Quaternions are widely used in various fields due to their stability and efficie
 ## Conclusion
 
 Quaternions are a versatile and powerful tool for representing 3D rotations. By avoiding the pitfalls of Euler angles, they provide a stable, efficient, and intuitive way to handle rotations in robotics, aerospace, and computer graphics.
-
