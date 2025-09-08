@@ -174,7 +174,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
         sumCos += cos(phase) * amp;
     }
     
-    if(showPhases)
+    if(showPhases) 
         for(int i = 0; i < 2; i++)
         {
             float outerBlend = 1.;

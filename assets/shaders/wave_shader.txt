@@ -27,10 +27,10 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
 	float maxt = 14.;
 	float t = mod(iTime, maxt) + 0.0;
 	vec2 pix = vec2(fragCoord.x / iResolution.x, fragCoord.y / iResolution.y);
-	vec4 overlay = vec4(1., 0., 0., 1.);
+	vec4 overlay = vec4(0., 1.0, 0., 1.);
 	float p0 = pix.x * 20. + t;
 	float p1 = p0 + blend(5.5, 8., 1.0, t) * 3.1415;
-	float glowexp = 200.;
+	float glowexp = 100.;
 	float d0 = pow(1.0001 - abs(pix.y - sin(p0) * 0.05 - 0.8), glowexp);
 	float d1 = pow(1.0001 - abs(pix.y - sin(p1) * 0.05 - 0.5), glowexp);
 	float d2 = pow(1.0001 - abs(pix.y - (sin(p0)+sin(p1)) * 0.05 - 0.2), glowexp);

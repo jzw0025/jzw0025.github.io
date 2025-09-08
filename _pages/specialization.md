@@ -81,4 +81,7 @@ spacing: single
 [unilm-trOCR](https://github.com/microsoft/unilm/tree/6f60612e7cc86a2a1ae85c47231507a587ab4e01/trocr)  
 [Transformers-tutorial](https://github.com/NielsRogge/Transformers-Tutorials/tree/master?tab=readme-ov-file)  
 
+### Wave and Accoustics
+Check out the interactive wave shader demo: [Wave Superimposing Demo](https://jzw0025.github.io/wave.html)
+
 
